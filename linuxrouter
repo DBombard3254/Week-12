@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "IP Routing?"
+echo "IP routing is essentially a host with multiple network connections that chooses where to send data it has recieved."
